@@ -48,3 +48,7 @@
     cursor: pointer;
     text-decoration: none;
   }
+  button{
+      background-color: transparent;
+      color: white;
+  }
