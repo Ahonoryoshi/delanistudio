@@ -39,3 +39,11 @@
   .pro{
     display: none;
   }
+  .img1{
+    width: 90%;
+    height: 90%;
+  }
+  .img1:hover{
+    cursor: pointer;
+    text-decoration: none;
+  }
