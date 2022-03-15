@@ -10,3 +10,7 @@
     background-size: 100%;
     background-repeat: no-repeat;
   }
+  #cont6{
+    background-image: url('/img/assets/backgrounds/c_image.jpg');
+    color: white;
+  }
