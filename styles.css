@@ -1,17 +1,17 @@
 #cont1{
-    background-image: url("/img/h_img.jpg");
+    background-image: url("img/h_img.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     color: white;
   }
   #cont3{
-    background-image: url('/img/s_image.jpg');
+    background-image: url('img/s_image.jpg');
     color: white;
     background-size: 100%;
     background-repeat: no-repeat;
   }
   #cont6{
-    background-image: url('/img/c_image.jpg');
+    background-image: url('img/c_image.jpg');
     color: white;
   }
   textarea{
