@@ -58,3 +58,15 @@
   ::placeholder{
       color: white;
   }
+  #email{
+      color: white;
+  }
+  #name{
+    color: white;
+}
+#email::placeholder{
+    color: white;
+}
+#name::placeholder{
+    color: white;
+}
