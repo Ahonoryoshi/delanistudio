@@ -55,3 +55,6 @@
   .clickable:hover{
       cursor: pointer;
   }
+  ::placeholder{
+      color: white;
+  }
