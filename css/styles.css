@@ -14,3 +14,13 @@
     background-image: url('/img/assets/backgrounds/c_image.jpg');
     color: white;
   }
+  textarea{
+    background-color: transparent;
+    color: white;
+  }
+  #name{
+    background-color: transparent;
+  }
+  #email{
+    background-color: transparent;
+  }
