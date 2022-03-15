@@ -4,3 +4,9 @@
     background-size: 100%;
     color: white;
   }
+  #cont3{
+    background-image: url('/img/assets/backgrounds/s_image.jpg');
+    color: white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
