@@ -52,3 +52,6 @@
       background-color: transparent;
       color: white;
   }
+  .clickable:hover{
+      cursor: pointer;
+  }
